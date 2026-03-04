@@ -1,1 +1,34 @@
-ana
+# Privacy Policy
+
+Last updated: March 2026
+
+## EXhale: Release Your Thoughts
+
+EXhale and its developers take your privacy very seriously.  
+Your thoughts are personal, and the app is designed to respect and protect that.
+
+## Data Collection
+
+EXhale does **not collect, store, or process any personal data**.
+
+The app does not require account creation, and no personal information is requested from users.
+
+## Third-Party Services
+
+EXhale does **not use third-party analytics tools**, tracking technologies, or advertising services.
+
+## Apple System Information
+
+Apple may provide developers with limited, non-identifiable information related to app performance or downloads.  
+Sharing this information is managed by Apple and can be controlled through your device settings.
+
+EXhale does not access, store, or process this information.
+
+## Data Sharing
+
+We do **not collect, transmit, distribute, sell, or share your data** with any third parties.
+
+## User Privacy
+
+Your thoughts stay private.  
+
